@@ -31,7 +31,7 @@ img {
 }
 
 .footer h2 {
-  margin-top: 0:auto;
+  margin-top: 0;
   margin-bottom: 1.5rem;
 }
 
@@ -51,6 +51,7 @@ img {
 }
 
 .social {
+  margin-left: auto;
   padding: 0 1rem;
   display: flex;
 }
@@ -60,5 +61,6 @@ img {
 }
 
 .copyright {
+  padding: 0 1rem;
   width: 100%;
 }
